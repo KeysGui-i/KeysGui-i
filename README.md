@@ -44,7 +44,7 @@
 ---
 ### 📅 Contribution Calendar
 <p align="center">
-  <img src="https://github.com/jenniferliu/jenniferliu/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/KeysGui-i" alt="Contribution chart" />
 </p>
 
 ### 📫 Get in Touch
