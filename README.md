@@ -41,11 +41,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenniferliu&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/jenniferliu/jenniferliu/raw/output/github-contribution-grid-snake.svg" alt="Contribution Calendar" />
-</p>
-
 ---
+### 📅 Contribution Calendar
+<p align="center">
+  <img src="https://github.com/jenniferliu/jenniferliu/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### 📫 Get in Touch
 <p align="center">
