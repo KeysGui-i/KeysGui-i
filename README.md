@@ -27,7 +27,8 @@
 | Project                  | Description                                        | Link                                                              |
 |--------------------------|----------------------------------------------------|-------------------------------------------------------------------|
 | ResCash Web App          | React + Node.js + MongoDB real-time ledger app     | [GitHub](https://github.com/KeysGui-i/rescash)                 |
-| IDS Adversarial Training | Robust IDS on NSL-KDD with FGSM and model repair   | [Paper](#) / [Code]([https://github.com/KeysGui-i/](https://github.com/KeysGui-i/IDS_lightweight_repair))       |
+| IDS Adversarial Training | Robust IDS on NSL-KDD with autoencoder + classifier head and apply repair on classifier head   | [Paper](#) / [Code]([https://github.com/KeysGui-i/](https://github.com/KeysGui-i/IDS_lightweight_repair))       |
+| Stock Prediction         | Random Forest to predict either **taking actions** or **hold**  | [GitHub](https://github.com/KeysGui-i/stock_prediction)                 |
 
 ---
 
